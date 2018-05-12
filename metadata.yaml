@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44816
     wikipedia: http://en.wikipedia.org/wiki/Barth%C3%A9lemy_de_Lesseps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44047#Historisch-dagverhaal-der-reize-van-den-heer-De-LessepsKamchatka-enz.
 gutenberg_issued: '2013-10-27'
 gutenberg_type: Text
 identifiers:
