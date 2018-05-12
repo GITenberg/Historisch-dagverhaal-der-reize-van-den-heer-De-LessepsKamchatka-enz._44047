@@ -1,0 +1,35 @@
+_repo: Historisch-dagverhaal-der-reize-van-den-heer-De-LessepsKamchatka-enz._44047
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44047-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lesseps, Jean-Baptiste-Barthélemy, baron de
+    aliases:
+    - Lesseps, Bartholemy de
+    - Lesseps, Jean-Baptiste-Barthelemy, baron de
+    - De Lesseps, Jean-Baptiste-Barthélemy, baron de
+    birthdate: 1766
+    deathdate: 1834
+    gutenberg_agent_id: '44816'
+    url: http://www.gutenberg.org/2009/agents/44816
+    wikipedia: http://en.wikipedia.org/wiki/Barth%C3%A9lemy_de_Lesseps
+description: ''
+gutenberg_issued: '2013-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44047'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siberia (Russia) -- Description and travel'
+- !lcsh 'Siberia (Russia) -- Languages'
+- !lcsh 'Kamchatka Peninsula (Russia) -- Description and travel'
+- !lcc 'DK'
+title: "Historisch dagverhaal der reize van den heer De Lesseps\r\nZedert het verlaten\
+  \ van den Heer Graaf de la Perouse en zyne togtgenooten in de haven van St. Pieter\
+  \ & Paulus op Kamchatka, enz."
+url: http://www.gutenberg.org/ebooks/44047
